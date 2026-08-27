@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 核心亮點 (Key Features)
+##  核心亮點 (Key Features)
 
 ### 1. 多模態語音情緒辨識與資料融合 (Data Blending)
 * **痛點**：標準 RAVDESS 語音資料庫文字內容單一，導致傳統語意模型 (BERT) 準確率僅 6.45%。
@@ -31,7 +31,7 @@
 
 ---
 
-## 🏗️ 系統架構 (System Architecture)
+##  系統架構 (System Architecture)
 
 ![系統架構圖](image.png)
 
@@ -45,7 +45,6 @@
 * **大型語言模型**: Qwen-1.5B-Chat
 
 ---
-*此專案為國立勤益科技大學電機工程系之研究專題。*
 
 ## ⚠️ 學術聲明與版權 (Academic Integrity & License)
 為了符合學術倫理與開源規範，本專案聲明如下：
