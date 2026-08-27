@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 核心工程亮點 (Core Engineering Highlights)
+##  核心工程亮點 (Core Engineering Highlights)
 
 ### 1. 多模態語音情緒感知 (SER) 與 Late Fusion (晚期融合)
 * **核心挑戰**：在訓練初期遭遇嚴重的過度擬合。深入分析後發現，由於 RAVDESS 資料集 (1,440 筆) 為演員唸固定台詞，導致文字模態完全缺乏情緒特徵，純語意準確率僅有慘烈的 6.45%，成為干擾決策的「雜訊」。
@@ -46,13 +46,13 @@
 
 ---
 
-## 🏗️ 系統架構 (System Architecture)
+##  系統架構 (System Architecture)
 
 ![系統架構圖](image.png)
 
 ---
 
-## 🛠️ 技術棧 (Tech Stack)
+##  技術棧 (Tech Stack)
 * **後端與深度學習**: PyTorch, HuggingFace Transformers, ChromaDB
 * **聲學與語音處理**: WavLM, Whisper, Edge TTS
 * **模型量化與微調**: bitsandbytes (4-bit NF4), PEFT (LoRA)
@@ -60,7 +60,7 @@
 
 ---
 
-## ⚠️ 學術聲明與版權 (Academic Integrity & License)
+##  學術聲明與版權 (Academic Integrity & License)
 為了符合學術倫理與開源規範，本專案聲明如下：
 1. **專案分工**：
    * **決策後端與系統介面 (阿光系統)**：為團隊合作開發之專案，包含基礎 LLM 串接、RAG 架構與 UI 介面實作。
